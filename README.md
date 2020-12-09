@@ -26,3 +26,5 @@ Sizes of files:
   -Vocabulary: 420MB
   -Postings File: 53.1 GB
   -Documents File + Contents File = 13.8 GB
+
+Apostolos Mavrogiannakis & Haralampos Varsamis, 2019
